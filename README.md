@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+My name is Aaron Wilson. I am an iOS Developer currently working on [My Dog Days](https://github.com/aaronthebald/DogDays1). Available on the [App Store](https://apps.apple.com/hu/app/my-dog-days/id6463662341).
+I have also been working on an internship, then contractor basis at [TrackHero](https://trackhero.com). I am looking for a full-time position and would love to talk to you about joining your team! My [LinkedIn](https://www.linkedin.com/in/aaronwilsondev/), [My Resume](https://github.com/aaronthebald/aaronthebald/files/13225641/AaronWilsonResumeV2.docx).  
 
-<!--
+<!--[AaronWilsonResumeV2.docx](https://github.com/aaronthebald/aaronthebald/files/13225641/AaronWilsonResumeV2.docx)
+
 **aaronthebald/aaronthebald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

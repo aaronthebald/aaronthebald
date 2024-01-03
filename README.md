@@ -1,4 +1,4 @@
-### Hello there 👋
+# Hello there 👋
 My name is Aaron Wilson. I am a self-taught iOS Developer. I love building apps and solving problems! I have experience contributing to open-source projects, working as a contractor for the SaaS company [TrackHero](https://trackhero.com), and building personal projects. I am looking for a full-time position and would love to talk to you about joining your team! My [LinkedIn](https://www.linkedin.com/in/aaronwilsondev/), [My Resume](https://github.com/aaronthebald/aaronthebald/files/13814526/AaronWilsoniOSResume.pdf).  
 
 ## Professional and Open Source

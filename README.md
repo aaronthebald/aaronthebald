@@ -4,7 +4,7 @@ My name is Aaron Wilson. I am a self-taught iOS Developer. I love building apps 
 ## Professional and Open Source
 My work at TrackHero has included taking the lead in building out the fleet management feature of the app. Views were built with SwiftUI and network requests were handled with Combine.
 
-I contributed to the open-source Hacktoberfest project [Basic Car Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance).
+I contributed to the open-source Hacktoberfest project [Basic Car Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance). Contribution included building views with SwiftUI and updating backend data using Firebase Firestore. 
 
 ## Personal Projects
 My Dog Days allows users to track events in the life of their dog. It is built  with SwiftUI and Core Data. Users are reminded of their events with local notifications. Available on the [App Store](https://apps.apple.com/hu/app/my-dog-days/id6463662341). Check out the [Repo](https://github.com/aaronthebald/DogDays1)!
